@@ -6,8 +6,8 @@
     <StackLayout Padding="9" Spacing="10">
         <BoxView HeightRequest="50" BackgroundColor="Blue"/>
         <BoxView HeightRequest="50" BackgroundColor="Yellow"/>
-        <BoxView HeightRequest="40" BackgroundColor="CadetBlue"/>
-        <BoxView HeightRequest="40" BackgroundColor="CadetBlue"/>
+        <BoxView HeightRequest="40" BackgroundColor="Orange"/>
+        <BoxView HeightRequest="40" BackgroundColor="LightBlue"/>
         <BoxView HeightRequest="40" BackgroundColor="CadetBlue"/>
         </StackLayout>
 </ContentPage>

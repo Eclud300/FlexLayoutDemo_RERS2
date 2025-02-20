@@ -5,14 +5,14 @@
              Title="Grid">
     <Grid ColumnDefinitions="*, *, *"
       RowDefinitions="*, *, *, *">
-        <BoxView BackgroundColor="LightGreen" Grid.Row="0" Grid.Column="0"/>
-        <BoxView BackgroundColor="LightBlue" Grid.Row="0" Grid.Column="1"/>
+        <BoxView BackgroundColor="Orange" Grid.Row="0" Grid.Column="0"/>
+        <BoxView BackgroundColor="Red" Grid.Row="0" Grid.Column="1"/>
         <BoxView BackgroundColor="LightGreen" Grid.Row="0" Grid.Column="2"/>
         <BoxView BackgroundColor="LightBlue" Grid.Row="1" Grid.Column="0"/>
         <BoxView BackgroundColor="Blue" Grid.Row="1" Grid.Column="1"/>
-        <BoxView BackgroundColor="LightBlue" Grid.Row="1" Grid.Column="2"/>
-        <BoxView BackgroundColor="LightGreen" Grid.Row="2" Grid.Column="0"/>
-        <BoxView BackgroundColor="LightBlue" Grid.Row="2" Grid.Column="1"/>
-        <BoxView BackgroundColor="LightGreen" Grid.Row="2" Grid.Column="2"/>
+        <BoxView BackgroundColor="Black" Grid.Row="1" Grid.Column="2"/>
+        <BoxView BackgroundColor="NavajoWhite" Grid.Row="2" Grid.Column="0"/>
+        <BoxView BackgroundColor="ForestGreen" Grid.Row="2" Grid.Column="1"/>
+        <BoxView BackgroundColor="Indigo" Grid.Row="2" Grid.Column="2"/>
     </Grid>
 </ContentPage>

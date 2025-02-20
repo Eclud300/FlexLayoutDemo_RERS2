@@ -4,11 +4,18 @@
              x:Class="FlexLayoutDemo_RERS.AbsoluteLayout"
              Title="AbsoluteLayout">
     <AbsoluteLayout>
+        <BoxView BackgroundColor="LightGreen"
+                 AbsoluteLayout.LayoutBounds="0.5, 0.1, 200, 40"
+                  AbsoluteLayout.LayoutFlags="PositionProportional"/>
+
         <BoxView BackgroundColor="Red" 
-             AbsoluteLayout.LayoutBounds="0.5, 0.2, 200, 40"
+             AbsoluteLayout.LayoutBounds="0.5, 0.2, 300, 80"
              AbsoluteLayout.LayoutFlags="PositionProportional"/>
         <BoxView BackgroundColor="Red" 
-             AbsoluteLayout.LayoutBounds="0.5, 0.8, 200, 40"
+             AbsoluteLayout.LayoutBounds="0.5, 0.8, 300, 40"
              AbsoluteLayout.LayoutFlags="PositionProportional"/>
+        <BoxView BackgroundColor="LightGray"
+                 AbsoluteLayout.LayoutBounds="0.5, 0.9, 230, 50"
+                 AbsoluteLayout.LayoutFlags="PositionProportional"/>
     </AbsoluteLayout>
 </ContentPage>

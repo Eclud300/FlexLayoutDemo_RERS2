@@ -8,8 +8,8 @@
     Title="FlexLayoutDemo_RERS">
 
     <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+        Title=""
+        ContentTemplate="{DataTemplate local:Grid}"
+        Route="Grid" />
 
 </Shell>
